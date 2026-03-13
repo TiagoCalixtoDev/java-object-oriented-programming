@@ -6,49 +6,70 @@ O objetivo é praticar conceitos fundamentais de POO e melhorar minha lógica de
 
 ## Conceitos praticados
 
-- Classes
-- Objetos
-- Atributos
-- Métodos
-- Encapsulamento
-- Organização em pacotes
-- Reutilização de código
+* Classes
+* Objetos
+* Atributos
+* Métodos
+* Encapsulamento
+* Organização em pacotes
+* Reutilização de código
 
 ## Exercícios
 
 ### Área de Triângulos
+
 Programa que compara a área de dois triângulos utilizando a Fórmula de Heron.
 
 Estrutura:
 
 entities/
- └── Triangle.java
+└── Triangle.java
 
 application/
- └── Program.java
+└── Program.java
+
+---
+
+### Retângulo
+
+Programa que lê a **largura e a altura de um retângulo** e calcula:
+
+* Área
+* Perímetro
+* Diagonal
+
+Estrutura:
+
+rectangle/entities/
+└── Rectangle.java
+
+rectangle/application/
+└── Program.java
 
 ---
 
 ### Controle de Estoque de Produtos
+
 Programa simples que simula o gerenciamento de estoque de um produto.
 
 Funcionalidades:
-- Adicionar produtos ao estoque
-- Remover produtos do estoque
-- Calcular valor total em estoque
+
+* Adicionar produtos ao estoque
+* Remover produtos do estoque
+* Calcular valor total em estoque
 
 Estrutura:
 
 entities_2/
- └── Product.java
+└── Product.java
 
 application_2/
- └── Program2.java
+└── Program2.java
 
 ## Tecnologias utilizadas
 
-- Java
-- IntelliJ IDEA
+* Java
+* IntelliJ IDEA
 
 ## Objetivo
 
